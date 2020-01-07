@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'f09639d1-bead-4dc7-bd75-b331c06b5a03'
   
   # Web app name
-  webAppName: 'testcpsapp'
+  webAppName: 'cpsegswebapp'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'development'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
